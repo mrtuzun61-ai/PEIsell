@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "ShootGo",
+    "slug": "shootgo",
+    "scheme": "shootgo",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-secure-store"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shootgo.app"
+    },
+    "android": {
+      "package": "com.shootgo.app"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

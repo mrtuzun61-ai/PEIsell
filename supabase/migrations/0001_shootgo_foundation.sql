@@ -1,0 +1,6 @@
+-- ShootGo foundation migration already applied to the dedicated Supabase project.
+-- Source of truth for future migrations should remain in this directory.
+-- Tables: profiles, listings, listing_images, favorites, conversations, messages,
+-- blocks, reports, payments, admin_users, app_config.
+-- Business defaults: first 30 days / 3 free listings, then $1/$2/$3/$5 tiers,
+-- 30-day listing lifetime, optional Boost.

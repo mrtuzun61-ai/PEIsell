@@ -2,6 +2,7 @@
   "expo": {
     "name": "ShootGo",
     "slug": "shootgo",
+    "owner": "murat6155",
     "scheme": "shootgo",
     "version": "0.1.0",
     "orientation": "portrait",

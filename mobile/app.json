@@ -38,6 +38,11 @@
         "ACCESS_FINE_LOCATION"
       ]
     },
+    "extra": {
+      "eas": {
+        "projectId": "df4afc8a-1df8-4012-835f-752121e06e1a"
+      }
+    },
     "experiments": {
       "typedRoutes": true
     }
